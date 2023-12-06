@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "answer": "Berlin"
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "answer": "Madrid"
+    },
+    {
+      "question": "asd",
+      "answer": "asd"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "I am a chatbot and I do not have a name, but you can call me anytime ;)"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I am fine. Thank you for asking!"
+    },
+    {
+      "question": "bye!",
+      "answer": "Don't leave just yet!"
+    },
+    {
+      "question": "homo",
+      "answer": "persereik\u00e4"
+    }
+  ]
+}
